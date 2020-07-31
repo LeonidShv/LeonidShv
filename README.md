@@ -1,5 +1,6 @@
 ### 👋 My name is Leonid Shvab, I got my general education at the college and at university of KNU. During my scientific activities related to artificial neuron, I began to study programming. At the moment I've tried some online platforms such as Prometheus, Stepik, FreeCodeCamp and others. The last course was a theoretical online course from Epam on Front End.
-<br/>
+
+
 My | Projects
 ------------ | -------------
 ![GitHub Logo](https://i.ibb.co/fQHKcrD/card0.jpg) Website: [Dia](https://leonidshv.github.io/dia/src/index.html) <br/> Project link: [GitHub](https://github.com/LeonidShv/dia)<br/>html/css + scss, БЭМ, jQuery, Validators/linter, npm  | ![GitHub Logo](https://i.ibb.co/t4X7x9g/card1.jpg) Website: [Game](https://leonidshv.github.io/gameBlog/) <br/> Project link: [GitHub](https://github.com/LeonidShv/gameBlog) <br/>html/css, Bootstrap
