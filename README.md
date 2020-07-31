@@ -1,5 +1,4 @@
-### 👋 My name is Leonid Shvab, I got my general education at the college and at university of KNU. During my scientific activities related to artificial neuron, I began to study programming. At the moment I've tried some online platforms such as Prometheus, Stepik, FreeCodeCamp and others. The last course was a theoretical online course from Epam on Front End.
-
+### 👋 My name is Leonid Shvab, I got my general education at the college and at university of KNU. During my scientific activities related to artificial neuron, I began to study programming. At the moment I've tried some online platforms such as Prometheus, Stepik, FreeCodeCamp and others. The last course was a theoretical online course from Epam on Front End.<br/>
 
 My | Projects
 ------------ | -------------
