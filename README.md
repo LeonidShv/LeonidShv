@@ -2,9 +2,9 @@
 
 First Header | Second Header
 ------------ | -------------
-![GitHub Logo](https://ibb.co/d7D3hkm) Website: [Dia](https://leonidshv.github.io/dia/src/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/dia) | ![GitHub Logo](https://ibb.co/kx1R9tj) Website: [Game](https://leonidshv.github.io/gameBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/gameBlog)
-![GitHub Logo](https://ibb.co/9nWdw5t) Website: [Travel](https://leonidshv.github.io/travelBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/travelBlog) | ![GitHub Logo](https://ibb.co/6RN75ph) Website: [hiking](https://leonidshv.github.io/hikingClub/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/hikingClub)
-![GitHub Logo](https://ibb.co/yYYprzJ) Website: [Miami](https://leonidshv.github.io/layout_miami/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/layout_miami/tree/develop) | )
+![GitHub Logo](https://i.ibb.co/fQHKcrD/card0.jpg) Website: [Dia](https://leonidshv.github.io/dia/src/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/dia) | ![GitHub Logo](https://i.ibb.co/t4X7x9g/card1.jpg) Website: [Game](https://leonidshv.github.io/gameBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/gameBlog)
+![GitHub Logo](https://i.ibb.co/31cPfZz/card2.jpg) Website: [Travel](https://leonidshv.github.io/travelBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/travelBlog) | ![GitHub Logo](https://i.ibb.co/N67dzkh/card3.jpg) Website: [hiking](https://leonidshv.github.io/hikingClub/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/hikingClub)
+![GitHub Logo](https://i.ibb.co/F00XFQt/card4.jpg) Website: [Miami](https://leonidshv.github.io/layout_miami/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/layout_miami/tree/develop) | )
 <!--
 **LeonidShv/LeonidShv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://ibb.co/d7D3hkm
-https://ibb.co/kx1R9tj
-https://ibb.co/9nWdw5t
-https://ibb.co/6RN75ph
-https://ibb.co/yYYprzJ
+<a href="https://ibb.co/d7D3hkm"><img src="https://i.ibb.co/fQHKcrD/card0.jpg" alt="card0" border="0"></a>
+<a href="https://ibb.co/kx1R9tj"><img src="https://i.ibb.co/t4X7x9g/card1.jpg" alt="card1" border="0"></a>
+<a href="https://ibb.co/9nWdw5t"><img src="https://i.ibb.co/31cPfZz/card2.jpg" alt="card2" border="0"></a>
+<a href="https://ibb.co/6RN75ph"><img src="https://i.ibb.co/N67dzkh/card3.jpg" alt="card3" border="0"></a>
+<a href="https://ibb.co/yYYprzJ"><img src="https://i.ibb.co/F00XFQt/card4.jpg" alt="card4" border="0"></a>
 -->
