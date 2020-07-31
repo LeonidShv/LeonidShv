@@ -1,10 +1,13 @@
 ### Hi there 👋
 
 ------------ | -------------
-![GitHub Logo](/images/card0.jpg)
-[Dia](http://github.com) https://leonidshv.github.io/dia/src/index.html
-[GitHub](https://github.com/LeonidShv/dia)
-| Content cell 2
+![GitHub Logo](/images/card0.jpg) [Dia](http://github.com) https://leonidshv.github.io/dia/src/index.html [GitHub](https://github.com/LeonidShv/dia) | Content cell 2
+Content column 1 | Content column 2
+
+
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
 Content column 1 | Content column 2
 
 <!--
