@@ -1,14 +1,9 @@
 ### Hi there 👋
 
------------- | -------------
-![GitHub Logo](/images/card0.jpg) [Dia](http://github.com) https://leonidshv.github.io/dia/src/index.html [GitHub](https://github.com/LeonidShv/dia) | Content cell 2
-Content column 1 | Content column 2
-
-
 First Header | Second Header
 ------------ | -------------
-![GitHub Logo](/images/card0.jpg) [Dia](https://leonidshv.github.io/dia/src/index.html) <br/>[GitHub](https://github.com/LeonidShv/dia) | Content cell 2
-Content column 1 | Content column 2
+![GitHub Logo](/images/card0.jpg) Website: [Dia](https://leonidshv.github.io/dia/src/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/dia) | [GitHub Logo](/images/card1.jpg) Website: [Game](https://leonidshv.github.io/gameBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/gameBlog)
+[GitHub Logo](/images/card0.jpg) Website: [Dia](https://leonidshv.github.io/dia/src/index.html) <br/> Link to project: [GitHub](https://github.com/LeonidShv/dia) | [GitHub Logo](/images/card1.jpg) Website: [Game](https://leonidshv.github.io/gameBlog/) <br/> Link to project: [GitHub](https://github.com/LeonidShv/gameBlog)
 
 <!--
 **LeonidShv/LeonidShv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
